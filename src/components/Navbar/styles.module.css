@@ -1,0 +1,14 @@
+.parent {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem 20rem;
+  background-color: black;
+}
+.parent li {
+  list-style: none;
+  color: white;
+  cursor: pointer;
+}
+.parent li:hover {
+  color: #6a64f1;
+}
